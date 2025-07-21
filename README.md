@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamsayannath.netlify.app/](https://iamsayannath.netlify.app/)
 
-- 💬 Ask me about **javascript, React, nodeJS,**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sayannath441@gmail.com**
 
@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsayannath&&theme=tokyonight&show_icons=true&locale=en" alt="iamsayannath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=iamsayannath&&theme=tokyonight" alt="iamsayannath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsayannath&&theme=tokyonight" alt="iamsayannath" /></p>
 
