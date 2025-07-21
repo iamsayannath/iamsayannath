@@ -1,4 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sayan Nath</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
@@ -24,9 +23,4 @@
 <a href="https://linkedin.com/in/sayannath441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayannath441" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsayannath&show_icons=true&locale=en&layout=compact" alt="iamsayannath" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsayannath&&theme=tokyonight&show_icons=true&locale=en" alt="iamsayannath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsayannath&&theme=tokyonight" alt="iamsayannath" /></p>
 
